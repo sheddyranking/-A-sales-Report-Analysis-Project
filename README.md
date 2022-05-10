@@ -1,4 +1,4 @@
-# Data-Analyst-Portoflio
+# A Sales Report Analysis Project with (SQL and PowerBI)
 Creating a Data Analyst Portoflio from scratch with SQL &amp; Power BI.
 
 ## Dataset
